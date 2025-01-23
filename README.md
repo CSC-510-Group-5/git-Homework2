@@ -10,15 +10,13 @@
 
 
 #### 1️⃣ Headers
-```md
-## 📝 Introduction
-```
+
+## Group 5 Homework 2
 
 
 #### 2️⃣ Image
-```md
-![Project Screenshot](path/to/your/image.png)
-```
+![Main Git Practice Screenshot](./Main_Screenshot.png)
+![Remote Git Practice Screenshot](./Remote_Screenshot.png)
 
 
 #### 3️⃣ Code Example
@@ -44,18 +42,12 @@ git push origin YOUR_BRANCH
 ##### ✅ Task List  
 
 
-- [ ] Task 1: Complete Git Tutorial 
-- [ ] Task 2: Add Screenshots to `README.md`  
+- [x] Task 1: Complete Git Tutorial 
+- [x] Task 2: Add Screenshots to `README.md`  
 - [ ] Task 3: Modify `.html` File  
 - [ ] Task 4: Merge latest changes  
 - [ ] Task 5: Review pull requests 
 
-
-```sh
-##Example
-- [ ] Task 1
-- [x] Task 2
-```
 
 
 ---
