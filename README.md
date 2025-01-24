@@ -19,6 +19,8 @@
 ```md
 ![Project Screenshot](path/to/your/image.png)
 ```
+<img width="1104" alt="Git Tutorial Remote" src="https://github.com/user-attachments/assets/25feab43-8331-4f59-8e26-a42f1becb5a1" />
+<img width="1104" alt="Git Tutorial Main Levels" src="https://github.com/user-attachments/assets/69fc36e3-7c37-4f71-9475-f7208893e8ca" />
 
 
 #### 3️⃣ Code Example
