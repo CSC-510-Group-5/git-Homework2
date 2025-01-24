@@ -10,6 +10,8 @@ Group 5 HW2 Submission
 [![DOI](https://zenodo.org/badge/915028921.svg)](https://doi.org/10.5281/zenodo.14630305)
 
 
+making changes so i can do the commit and merge and resolve in the command line 
+
 
 #### 1️⃣ Headers
 
