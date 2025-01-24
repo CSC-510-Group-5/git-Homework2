@@ -1,4 +1,5 @@
-
+## Introduction
+Group 5 HW2 Submission
 
 ![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)
 
@@ -7,6 +8,7 @@
 ![Platform: Windows](https://img.shields.io/badge/Platform-Linux-yellow.svg)
 
 [![DOI](https://zenodo.org/badge/915028921.svg)](https://doi.org/10.5281/zenodo.14630305)
+
 
 
 #### 1️⃣ Headers
@@ -19,8 +21,14 @@
 ![Remote Git Practice Screenshot](./Remote_Screenshot.png)
 
 
-#### 3️⃣ Code Example
+## Images
+mjhorne2 Screenshots:
+<img width="900" alt="image" src="https://github.com/user-attachments/assets/92734be3-0d49-452b-8568-4eb74118fe6a" />
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/8b2b64b7-1fc7-4cb0-b255-6586abfbdb2e" />
 
+
+
+## Code Examples
 
 ```sh
 # Stage all changes for commit
@@ -36,10 +44,8 @@ git push origin YOUR_BRANCH
 ```
 
 
-#### 4️⃣ Task List
-
-
 ##### ✅ Task List  
+
 
 
 - [x] Task 1: Complete Git Tutorial 
@@ -47,7 +53,6 @@ git push origin YOUR_BRANCH
 - [x] Task 3: Modify `.html` File  
 - [x] Task 4: Merge latest changes  
 - [ ] Task 5: Review pull requests 
-
 
 
 ---
