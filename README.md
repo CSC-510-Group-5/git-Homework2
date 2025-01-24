@@ -50,7 +50,7 @@ git push origin YOUR_BRANCH
 
 
 
-- [x] Task 1: Complete Git Tutorial 
+- [x] Removing this to create merge conflict 
 - [x] Task 2: Add Screenshots to `README.md`  
 - [x] Task 3: Modify `.html` File  
 - [x] Task 4: Merge latest changes  
