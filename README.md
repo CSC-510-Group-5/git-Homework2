@@ -9,10 +9,23 @@ Group 5 HW2 Submission
 
 [![DOI](https://zenodo.org/badge/915028921.svg)](https://doi.org/10.5281/zenodo.14630305)
 
+
+
+#### 1️⃣ Headers
+
+## Group 5 Homework 2
+
+
+#### 2️⃣ Image
+![Main Git Practice Screenshot](./Main_Screenshot.png)
+![Remote Git Practice Screenshot](./Remote_Screenshot.png)
+
+
 ## Images
 mjhorne2 Screenshots:
 <img width="900" alt="image" src="https://github.com/user-attachments/assets/92734be3-0d49-452b-8568-4eb74118fe6a" />
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/8b2b64b7-1fc7-4cb0-b255-6586abfbdb2e" />
+
 
 
 ## Code Examples
@@ -31,12 +44,15 @@ git push origin YOUR_BRANCH
 ```
 
 
-## Task List
+##### ✅ Task List  
+
+
 
 - [x] Task 1: Complete Git Tutorial 
 - [x] Task 2: Add Screenshots to `README.md`  
 - [x] Task 3: Modify `.html` File  
 - [x] Task 4: Merge latest changes  
 - [ ] Task 5: Review pull requests 
+
 
 ---
